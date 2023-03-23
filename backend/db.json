@@ -1,0 +1,53 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Rick",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "New Angular 15",
+      "autoria": "Angular",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Lets go dev Angular",
+      "autoria": "Rick",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 4,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Henrique",
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "Evoluindo com Angular ",
+      "autoria": "Henrique",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 5
+    },
+    {
+      "conteudo": "Angular é um framework apaixonante",
+      "autoria": "Henrique",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 8
+    },
+    {
+      "conteudo": "Acabei de refatorar minha aplicação memoteca",
+      "autoria": "Henrique",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 9
+    }
+  ]
+}
